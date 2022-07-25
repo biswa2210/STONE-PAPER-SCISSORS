@@ -42,9 +42,9 @@ STONE-PAPER-SCISSORS
 
 <div align="center">
     
-<a href=""><img src="" width="400" height= "280"></a> <a href=""><img src="" width="400" height= "280"></a>
+<a href="stone1.png"><img src="stone1.png" width="800" height= "400"></a> 
 
-<a href=""><img src="" width="400" height= "280"></a> <a href=""><img src="" width="400" height= "280"></a>
+<a href="stone2.png"><img src="stone2.png" width="800" height= "400"></a>
 
 </div>
 
