@@ -24,6 +24,10 @@ This is a stone paper scissors agem. User can start this application ans start p
 
 </div>
 
+## STONE PAPER SCISSORS DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=p6ifmHHFuOk&list=PL0lbDlMJ1h4ikgkbohDuJurlnFvGzJCMr&index=8">Click here to watch</a>
+
+## PYTHON PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=SsKXFCSfQgw&list=PL0lbDlMJ1h4ikgkbohDuJurlnFvGzJCMr">Click here to watch</a>
+
 ## Folder Structure :point_down:
 
 ```bash
